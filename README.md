@@ -22,8 +22,8 @@
 ---
 
 ## 🌐 라이브 데모 (GitHub Pages)
-배포 후 GitHub Pages URL에서 확인하실 수 있습니다:  
-`https://saoj1104.github.io/<repository-name>/`
+배포 후 접속 가능한 공식 웹사이트 주소:  
+👉 **[https://saoj1104.github.io/landall-web/](https://saoj1104.github.io/landall-web/)**
 
 ---
 
